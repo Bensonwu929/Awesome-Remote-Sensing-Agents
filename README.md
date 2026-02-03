@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Maintenance-Yes-green.svg" alt="Maintenance">
-  <img src="https://img.shields.io/github/last-commit/yourusername/Awesome-Remote-Sensing-Agents" alt="Last Commit">
+  <img src="https://img.shields.io/github/last-commit/bensonwu929/Awesome-Remote-Sensing-Agents" alt="Last Commit">
 </div>
 
 <div align="center">
@@ -25,9 +25,7 @@
 - [About](#-about)
 - [Agent Systems](#-agent-systems)
 - [Datasets & Benchmarks](#-datasets--benchmarks)
-- [Tools & Frameworks](#-tools--frameworks)
 - [Survey Papers](#-survey-papers)
-- [Related Projects](#-related-projects)
 - [Contributing](#-contributing)
 - [Citation](#-citation)
 
@@ -98,12 +96,6 @@ We warmly welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 📑 Citation
-
-If you find this repository useful in your research or work, please give it a star.
-
----
-
 ## 📄 License
 
 This repository is licensed under [CC0-1.0 License](LICENSE). Feel free to use and share!
@@ -111,7 +103,6 @@ This repository is licensed under [CC0-1.0 License](LICENSE). Feel free to use a
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the RS Agent community</p>
   <p>⭐ Star this repository if you find it helpful!</p>
 </div>
 
