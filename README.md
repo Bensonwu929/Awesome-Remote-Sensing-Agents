@@ -79,14 +79,6 @@ This repository aims to be a comprehensive resource hub for researchers and prac
 
 We warmly welcome contributions from the community! Here's how you can help:
 
-### How to Contribute
-
-1. **Fork** this repository
-2. **Create** a new branch (`git checkout -b feature/your-feature`)
-3. **Add** your contribution (following our format guidelines)
-4. **Commit** your changes (`git commit -m 'Add some feature'`)
-5. **Push** to the branch (`git push origin feature/your-feature`)
-6. **Open** a Pull Request
 
 ### Contribution Guidelines
 
@@ -100,7 +92,6 @@ We warmly welcome contributions from the community! Here's how you can help:
 ### What to Contribute
 
 - 📝 New research papers on RS agents
-- 🛠️ Open-source tools and frameworks
 - 📊 Datasets and benchmarks
 - 🌟 Interesting projects and applications
 - 🐛 Bug fixes and improvements
@@ -109,17 +100,7 @@ We warmly welcome contributions from the community! Here's how you can help:
 
 ## 📑 Citation
 
-If you find this repository useful in your research or work, please consider citing:
-
-```bibtex
-@misc{awesome-rs-agents,
-  title={Awesome Remote Sensing Agents: A Curated List of AI Agents for Earth Observation},
-  author={Contributors},
-  year={2026},
-  publisher={GitHub},
-  howpublished={\url{https://github.com/yourusername/Awesome-Remote-Sensing-Agents}}
-}
-```
+If you find this repository useful in your research or work, please give it a star.
 
 ---
 
