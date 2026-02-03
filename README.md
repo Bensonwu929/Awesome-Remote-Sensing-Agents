@@ -48,7 +48,7 @@ This repository aims to be a comprehensive resource hub for researchers and prac
 | **RingMo-Agent** | RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning | Arxiv | 2025 | [Paper](https://arxiv.org/abs/2507.20776) | null |
 | **GeoFlow** | GeoFlow: Agentic Workflow Automation for Geospatial Tasks | ACM SIGSPATIAL | 2025 | [Paper](https://arxiv.org/abs/2508.04719) | null |
 | **Google Earth AI** | Earth AI: Unlocking Geospatial Insights with Foundation Models and Cross-Modal Reasoning | Arxiv | 2025 | [Paper](https://arxiv.org/abs/2510.18318) | null |
-| **HTAM (EarthAgent)** | Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism | Arxiv | 2025 | [Paper](https://arxiv.org/abs/2511.17198) | [GitHub](https://github.com/earth-insights/GeoPlan-bench) |
+| **HTAM** | Designing Domain-Specific Agents via Hierarchical Task Abstraction Mechanism | Arxiv | 2025 | [Paper](https://arxiv.org/abs/2511.17198) | [GitHub](https://github.com/earth-insights/GeoPlan-bench) |
 | **Multi-Agent Geospatial Copilots** | Multi-Agent Geospatial Copilots for Remote Sensing Workflows | Arxiv | 2025 | [Paper](https://arxiv.org/abs/2501.16254) | null |
 | **CangLing-KnowFlow** | CangLing-KnowFlow: A Unified Knowledge-and-Flow-fused Agent for Comprehensive Remote Sensing Applications | Arxiv | 2026 | [Paper](https://arxiv.org/abs/2512.15231) | [GitHub](https://github.com/Cangling-Agent/) |
 | **Earth-Agent** | Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents | ICLR | 2026 | [Paper](https://arxiv.org/abs/2509.23141) | [GitHub](https://github.com/opendatalab/Earth-Agent) |
